@@ -4,7 +4,7 @@ Draft revision: 4 October 2026. Not yet published; an effective date will be add
 
 RITM helps you keep records of finances, food, activity and time. This policy explains what stays on your iPhone, what is sent for processing and how you can manage your data.
 
-The developer and data controller is **Pomazkin Aleksandr, Kazakhstan**. Contact: [a.pomazkin@icloud.com](mailto:a.pomazkin@icloud.com).
+The developer and data controller is **Pomazkin Aleksandr**. Contact: [a.pomazkin@icloud.com](mailto:a.pomazkin@icloud.com).
 
 ## Your journal on your device
 
@@ -81,6 +81,6 @@ The revision date changes when this policy is updated. If a change in processing
 
 ## Contact
 
-**Developer and data controller:** Pomazkin Aleksandr, Kazakhstan.
+**Developer and data controller:** Pomazkin Aleksandr.
 
 **Email:** [a.pomazkin@icloud.com](mailto:a.pomazkin@icloud.com).

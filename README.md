@@ -1,7 +1,5 @@
 # RITM Privacy Policy
 
-Draft revision: 4 October 2026. Not yet published; an effective date will be added when the policy is published.
-
 RITM helps you keep records of finances, food, activity and time. This policy explains what stays on your iPhone, what is sent for processing and how you can manage your data.
 
 The developer and data controller is **Pomazkin Aleksandr**. Contact: [a.pomazkin@icloud.com](mailto:a.pomazkin@icloud.com).

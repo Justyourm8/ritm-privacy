@@ -2,7 +2,7 @@
 
 Last updated: 7 October 2026.
 
-RITM helps you keep personal records of finances, food, activity and time. The developer and data controller is **Pomazkin Aleksandr**. For privacy requests, contact **a.pomazkin@icloud.com**.
+RITM helps you keep personal records of finances, food, activity and time. The developer and data controller is **Pomazkin Aleksandr** ("RITM", "we"). For privacy requests, contact **a.pomazkin@icloud.com**.
 
 ## Information we process
 
@@ -35,13 +35,13 @@ AI nutrition and other outputs can be inaccurate, particularly estimates from a 
 
 We use **OpenAI** for the AI tasks above and **Timeweb Cloud** for server hosting in Almaty, Kazakhstan. **Apple** provides account, purchase and system features. If you visit this policy on **GitHub Pages**, GitHub receives website connection information, such as your IP address, but not your journal through that visit. Contacting support also sends the information you include through the email services involved.
 
-Our protection standard requires third parties receiving personal data to provide the same or equal protection as described in this policy and required by applicable law and Apple's App Review Guidelines. This includes appropriate security and confidentiality, defined purposes, restrictions on onward disclosure, and applicable access and deletion rights. Equivalent protection does not mean that all recipients have identical technical systems or retention periods. Using a provider does not remove RITM's own legal responsibilities.
+Our protection standard requires third parties receiving personal data to provide the same or equal protection as described in this policy and required by applicable law and Apple's App Review Guidelines. This includes appropriate security and confidentiality, defined purposes, restrictions on onward disclosure, and applicable access and deletion rights. Equivalent protection does not mean that all recipients have identical technical systems or retention periods.
 
 OpenAI's [Services Agreement](https://openai.com/policies/services-agreement/) incorporates its [Data Processing Addendum](https://openai.com/policies/data-processing-addendum/) for personal-data processing. These terms address permitted processing, confidentiality, security, assistance with individuals' rights and obligations for subprocessors. OpenAI's standard API terms do not permit using API content to improve its services without the customer's explicit agreement. Hosting, Apple services and website visits are governed by their respective applicable terms; OpenAI's agreement does not cover these other providers.
 
 Processing by providers may take place outside Kazakhstan and outside your country, including in the United States. Applicable transfer requirements and mandatory user rights continue to apply; confirming an AI request is not a waiver of those rights. Where relevant, OpenAI's DPA includes contractual safeguards for international transfers.
 
-Version 76 no longer offers nutrition lookup by website link. Older versions may still let you expressly submit a product-page URL and portion information to RITM after a separate confirmation. The selected website then receives a request from RITM's server, including the URL and connection information. The page is parsed on RITM's server without sending its HTML to OpenAI. This legacy feature is separate from AI processing.
+RITM no longer offers nutrition lookup by website link. Older versions may still let you expressly submit a product-page URL and portion information to RITM after a separate confirmation. The selected website then receives a request from RITM's server, including the URL and connection information. The page is parsed on RITM's server without sending its HTML to OpenAI. This legacy feature is separate from AI processing.
 
 ## Permissions and integrations
 
